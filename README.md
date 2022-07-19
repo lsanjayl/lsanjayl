@@ -18,10 +18,6 @@
 
 
 <hr/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhirajmaid&show_icons=true&locale=en" alt="abhirajmaid" width="50%" </p>
-
-<hr/>
 <h2 align="left">🤝Lets Connect:</h2>
 <p align="left">
 <a href="https://dev.to/abhirajmaid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/abhirajmaid" height="30" width="40" /></a>
