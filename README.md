@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="Banner" src="https://github.com/lsanjayl/lsanjayl/blob/main/Sanjay.png" width="1500"/>
+<img align="right" alt="Banner" src="https://github.com/lsanjayl/lsanjayl/blob/main/Sanjay%20(1).png" width="1500"/>
 
 <p align="center">-</p>
 <hr/>
