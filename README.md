@@ -7,8 +7,7 @@
 <h2> 😃 About Me </h2>
 <h4 align="left" color="#6beb34">Hello, Myself Sanjay.
         Programming enthusiast. Who loves Web-Development. <br>I Work with HTML-CSS, JavaScript, React, react-router, style-components, GIT and lot
-        other technologies. <br> I Run the NEWS media company
-        Eternalmac.com.<br>I Love listening POP songs 🎧😅. <br> If you love my profile feel free to ping me at any social media platform😁</h4>
+        other technologies. <br>I Love watching movies. <br> If you love my profile feel free to ping me at any social media platform😁</h4>
 
 <!--<p align="left"> <a href="https://twitter.com/amaid050" target="blank"><img src="https://img.shields.io/twitter/follow/amaid050?logo=twitter&style=for-the-badge" alt="amaid050" /></a> </p>
 -->
